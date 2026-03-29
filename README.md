@@ -60,18 +60,20 @@ This project was conducted in a controlled lab environment using intentionally v
 
 ## 🧭 Project Phases
 
-- 🔍 [Phase 1: Reconnaissance](phases/phase1-recon.md)
-- 🔎 [Phase 2: Enumeration](phases/phase2-enumeration.md)
-- 💣 [Phase 3: Exploitation](phases/phase3-exploitation.md)
-- 🔥 [Phase 4: Post-Exploitation](phases/phase4-post-exploitation.md)
-- 🛡️ [Phase 5: Mitigation](phases/phase5-mitigation.md)
+| Phase | Description | Link |
+|------|------------|------|
+| 🔍 Phase 1 | Reconnaissance | [View](phases/phase1-reconnaissance.md) |
+| 🔎 Phase 2 | Enumeration | [View](phases/phase2-enumeration.md) |
+| 💣 Phase 3 | Exploitation | [View](phases/phase3-exploitation.md) |
+| 🔥 Phase 4 | Post-Exploitation | [View](phases/phase4-post-exploitation.md) |
+| 🛡️ Phase 5 | Mitigation | [View](phases/phase5-mitigation.md) |
 
 ---
 
 ## 📄 Report
 
 A detailed report of this project is available here:  
-👉 [View Report](report.pdf)
+👉 [View Report](VAPT-report.pdf)
 
 ---
 
