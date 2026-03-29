@@ -78,8 +78,6 @@ nc -nv 192.168.10.50 25
 
 ## 🧠 Analysis
 
-The reconnaissance phase revealed a large attack surface with multiple exposed services.  
-Both automated (Nmap) and manual (Netcat) techniques were used to validate service availability.  
-These findings guided the next phase of enumeration.
+The reconnaissance phase revealed a large attack surface with multiple exposed services. Both automated (Nmap) and manual (Netcat) techniques were used to validate service availability. These findings guided the next phase of enumeration.
 
 ---
