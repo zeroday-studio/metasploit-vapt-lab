@@ -62,11 +62,11 @@ This project was conducted in a controlled lab environment using intentionally v
 
 | Phase | Description | Link |
 |------|------------|------|
-| 🔍 Phase 1 | Reconnaissance | [View](phases/phase1-reconnaissance.md) |
-| 🔎 Phase 2 | Enumeration | [View](phases/phase2-enumeration.md) |
-| 💣 Phase 3 | Exploitation | [View](phases/phase3-exploitation.md) |
-| 🔥 Phase 4 | Post-Exploitation | [View](phases/phase4-post-exploitation.md) |
-| 🛡️ Phase 5 | Mitigation | [View](phases/phase5-mitigation.md) |
+| 🔍 Phase 1 | Reconnaissance | [View](phases/reconnaissance.md) |
+| 🔎 Phase 2 | Enumeration | [View](phases/enumeration.md) |
+| 💣 Phase 3 | Exploitation | [View](phases/exploitation.md) |
+| 🔥 Phase 4 | Post-Exploitation | [View](phases/post-exploitation.md) |
+| 🛡️ Phase 5 | Mitigation | [View](phases/mitigation.md) |
 
 ---
 
