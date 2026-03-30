@@ -79,7 +79,7 @@ This project was conducted in a controlled lab environment using intentionally v
 ## 📄 Report
 
 A detailed report of this project is available here:  
-👉 [View Report](VAPT-report.pdf)
+👉 [View Report](report/VAPT-report.pdf)
 
 ---
 
