@@ -10,6 +10,12 @@ This project was conducted in a controlled lab environment using intentionally v
 
 ---
 
+## 📊 VAPT Project Lifecycle
+
+![VAPT Lifecycle](screenshots/vapt-lifecycle.png)
+
+---
+
 ## 🧪 Lab Setup
 
 ### 💻 Environment
